@@ -1,4 +1,4 @@
-var debug = false;
+var debug = true;
 var hostServer = 'make.girls.moe';
 var apiHostServer = 'https://make.girls.moe';
 var backendUrlPrefix = (debug ? 'http://localhost:6253' : apiHostServer);
